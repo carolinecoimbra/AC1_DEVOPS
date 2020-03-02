@@ -1,0 +1,9 @@
+Integrantes: Caroline Coimbra   |   Debora Canape
+
+. C e C++ para automação e engenharia
+. Assembly por ser próxima a linguagem de máquina
+. Java por ser robusta e multiplataforma
+. Kotlin para desenvolvimento Android
+. Swift para desenvolvimento IOS
+. Python para reconhecimento de perfis
+. Inteligência Artificial como suporte ao consumidor (com Python também)
