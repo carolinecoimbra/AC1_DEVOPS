@@ -1,0 +1,88 @@
+Teste
+
+Integrantes: Caroline Coimbra   |   Debora Canape
+
+
+Requisitos
+Requisitos para o usuário
+Conforto - OK
+Rapidez - OK
+Rotas precisas - OK
+Preço acessível - OK
+Facilidade - OK
+Simplicidade - OK
+
+
+Requisitos para o produto
+Voar - OK
+Sistema automatizado - OK
+Prevenções de risco - OK
+GPS preciso - OK
+Sistema de Calibragem para pouso suave - OK
+Integração de sistemas via API - OK
+Versões para diversos dispositivos - OK
+Design robusto - OK
+Suporte para PCD - OK
+Reconhecimento de perfis - OK 
+
+
+Design
+Velocidade até 2910km/h - OK
+Altitude de navegação - OK
+Viagens de até 100km - OK
+100% elétrico - OK
+Propulsão elétrica distribuída - OK
+Recarga de bateria rápida - OK
+Rotores e hélices - OK
+Automação - OK
+Circuitos - OK
+QA (Quality Assurance) - OK
+Flexibilidade - OK
+Produtividade - OK
+Central de monitoria - OK
+Padronização de equipamentos - OK
+QC (Quality Control) - OK 
+
+
+PS.: Cenário de Teste
+- Conjunto de valores de entrada: 
+Possuir uma conta, acessar login.
+- Pré-condições de execução: 
+Estar logado em sua conta ou possuir o ‘card contactless’.
+- Resultados esperados: 
+Realizar viagens de forma simples, prática, rápida e segura.
+- Pós-condições de execução: 
+Deixar o usuário em seu destino com segurança.
+Após a primeira viagem, deverá ser realizado uma pesquisa de satisfação sobre sua primeira viagem, de forma que as pesquisas sejam feitas efetivamente em um CRM como uma estratégia de negócio com foco no cliente. Desta maneira iremos ter condições reais para metrificação. 
+- Desenvolvidas para um determinado objetivo e/ou condição de teste: 
+Testes A/B para uso em features específicas, como processo de otimização para o projeto como um todo.
+
+
+
+
+#
+Ação
+1 - O usuário deve estar logado em sua conta, na qual tem acesso através de dispositivos desktops, mobile, watches, e etc. Após logarem poderão utilizar os serviços do transporte.
+2 - Para solicitar uma viagem deve selecionar a opção de "Solicitar viagem", que estará disponível na home.
+3 - Feature para lugares preferidos.
+4 - IA como suporte à pessoas PCD.
+5 - Calibragens constantes para que seja proporcionado a melhor experiência ao usuário enquanto viaja.
+6 - Otimização contínua das plataformas de acesso (desktop, mobile, tablet, watches e etc).
+7 - QA e QC rígidos.
+
+
+
+Resultado Esperado
+1 - Validação por meio de verificação de dois fatores ou ter em mãos o ‘card contactless” (assim o sistema já vai reconhecer que ele tem uma conta para realizar viagens).
+2 - Inserção de endereço de partida, inserção de endereço de destino, diversas formas para realizar pagamento.
+3 - Lista de endereços que mais gosta de frequentar.
+4 - Para cegos - Será capaz de executar tarefas por meio de reconhecimento de voz. Para surdos e/ou mudos - Será capaz de executar tarefas por meio de linguagem de sinais ou tecnologia assistiva.
+5 - Uso de aerodinâmica para enaltecer os sistemas de calibragem.
+6 - Em conjunto com o time de UX é feito uma curadoria de como as plataformas podem ser otimizadas.
+7 - O time de engenharia também trabalhará em conjunto para que assim seja feito um reparo mais efetivo (caso tenha algo errado), e para aumentar a produtividade enquanto ainda não está na fase de produção.
+
+
+
+
+
+

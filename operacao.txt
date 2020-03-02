@@ -1,0 +1,13 @@
+﻿Operação
+
+Integrantes: Caroline Coimbra   |   Debora Canape
+
+. Aumento da satisfação do cliente
+. Redução de custos operacionais
+. Redução de retrabalhos
+. Otimização na previsibilidade aos projetos
+. Otimização na rotina dos profissionais que trabalham com o projeto
+. Metrificação de todos os ciclos
+. Teste e produção de modo repetido e mais eficiente
+. Escalabilidade com gerenciamento de sistemas complexos e/ou dinâmicos com riscos reduzidos
+. Microsserviços e entregas contínuas de modo que garanta a qualidade de atualizações de infraestrutura.
